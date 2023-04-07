@@ -4,34 +4,34 @@ Simple federal tax calculator
 
 ## Workflow
 
--- Input tax year
--- Input total income
--- Calculate total taxes, tax per band, effective rate
+- Input tax year
+- Input total income
+- Calculate total taxes, tax per band, effective rate
 
 ## Tech
 
--- React, Typescript
--- Redux DevToolkit, Redux Saga (state mamangement)
--- React router (routing)
--- React Hook Form (form submittion)
--- Storybook (component testing)
--- Styled-components (styling)
--- Yup (schema)
--- Axios (API interface)
--- Jest (unit testing)
--- Playwright (automated testing)
+- React, Typescript
+- Redux DevToolkit, Redux Saga (state mamangement)
+- React router (routing)
+- React Hook Form (form submittion)
+- Storybook (component testing)
+- Styled-components (styling)
+- Yup (schema)
+- Axios (API interface)
+- Jest (unit testing)
+- Playwright (automated testing)
 
 ## Folder structure
 
--- components (atomic design folder structure)
--- i18n (internationalization)
--- models
--- pages
--- routes
--- services (axios interface)
--- stores (action, reducer, saga)
--- styles
--- utils (helper functions)
+- components (atomic design folder structure)
+- i18n (internationalization)
+- models
+- pages
+- routes
+- services (axios interface)
+- stores (action, reducer, saga)
+- styles
+- utils (helper functions)
 
 ## Scripts
 
