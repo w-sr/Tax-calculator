@@ -1,0 +1,17 @@
+{
+  "income": "Income",
+  "income-required": "Income is required",
+  "income-number": "Income must be a number",
+  "income-zero": "Income must be more than 0",
+  "year": "Year",
+  "year-required": "Year is required",
+  "year-number": "Year must be a number",
+  "invalid-year": "Please input a year between 1950 and 2099",
+  "calculate": "Calculate",
+  "tax": "Tax",
+  "tax-calculator": "Tax calculator",
+  "tax-bracket": "Tax Bracket",
+  "tax-rate": "Tax Rate",
+  "total": "Total",
+  "effective-rate": "Effective Rate"
+}

@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Table /> should match the snapshot 1`] = `
+<table>
+  <thead>
+    <tr>
+      <th
+        class="sc-gueYoa klxFfn"
+        style="width: 150px;"
+      >
+        Tax Bracket
+      </th>
+      <th
+        class="sc-gueYoa klxFfn"
+        style="width: 150px;"
+      >
+        Tax Rate
+      </th>
+      <th
+        class="sc-gueYoa klxFfn"
+        style="width: 150px;"
+      >
+        Tax Per Band
+      </th>
+    </tr>
+  </thead>
+  <tbody />
+</table>
+`;
