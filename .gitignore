@@ -3,7 +3,7 @@
 # dependencies
 /node_modules
 /test-results
-/stories
+/src/stories
 /.pnp
 .pnp.js
 
